@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Cecilie, nice to meet you 👋 I'm a 2nd grade Data Engineering student, and this is where i share my school projects and coding experience!
 
 <!--
 **cecilievu/cecilievu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
