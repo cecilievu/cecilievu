@@ -21,6 +21,28 @@ This is where I share my school projects and everything i'm learning along the w
 ### Some tools I have used and learned 💻:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 
+### 🌱 Projects
+
+#### Fridge Manager - My first coding project ever!
+A console application built in Java for managing a virtual fridge, where users can add, remove, and search for items. The app also includes a built-in cookbook.
+
+[View Fridge Manager →](https://github.com/NTNU-IDI/idatt1003-mappe-2024-cecilievu)
+
+### Boardgame - From console to GUI
+Group project where the assignment was to develop a board game applications with Java and JavaFX. We developed two games "Snakes and Ladders" and "Knowledge Knockout". The application also allowed to create and load custom board games through JSON-files.
+The main focus of the project was working with Maven, file handling, design pattersn and building graphical user interfaces with JavaFX.
+
+[View Boardgame →](https://github.com/NTNU-IDI/idatt1003-mappe-2024-cecilievu)
+
+### Catfe
+First web application. Built with Vue.js and JavaScript.
+
+### Calculator
+A simple calculator app built with Vue.js and Pinia for state management.
+
+### Nettdetektivene - Full stack group project
+
+I mainly worked on frontend and design. Creating and organizing reusable components for the different game levels
 
 <!--
 **cecilievu/cecilievu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
