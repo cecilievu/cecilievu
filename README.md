@@ -7,8 +7,6 @@ I'm also just a girl trying to survive university and hopefully find a job where
 
 ### Oh you're still here? 👀
 
-Then here's a little bit about me:
-
 Before diving into tech, I actually worked as a nurse. At 28, I decided to completely change direction and start studying something I had never really done before: coding.  
 
 <p>Some might call it a brave decision, I just call it doing something for myself and figuring out what actually makes me ✨happy✨<br>
