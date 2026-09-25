@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there!
 My name is Cecilie, nice to meet you! I'm a final-year Data Engineering student specializing in Software Development, graduating in 2027.
 
 I'm also just a girl trying to survive university and hopefully find a job where I can learn, grow and actually enjoy what I do 🌸
 
 ---
 
-### Oh you're still here? 👀
+### Oh you're still here?
 
 Before diving into tech, I actually worked as a nurse. At 28, I decided to completely change direction and start studying something I had never really done before: coding.  
 
@@ -20,7 +20,7 @@ This is where I share my school projects and everything i'm learning along the w
 
 --- 
 
-### Some tools I have used and learned 💻:
+### Some tools I have used and learned:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -38,7 +38,7 @@ This is where I share my school projects and everything i'm learning along the w
 
 ---
 
-### 🌱 Projects
+### Projects
 
 #### Fridge Manager - My first coding project ever!
 A console application built in Java for managing a virtual fridge, where users can add, remove, and search for items. The app also includes a built-in cookbook.
